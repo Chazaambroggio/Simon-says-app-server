@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d86fef1.css",
+    "main.js": "/static/js/main.3c7725c9.js",
+    "static/media/yellow.wav": "/static/media/yellow.944ef3c46690d8a06455.wav",
+    "static/media/green.wav": "/static/media/green.1b87086ef3de6aaa86d3.wav",
+    "static/media/red.wav": "/static/media/red.ceb60b2f96d7006f88a7.wav",
+    "static/media/game-over.wav": "/static/media/game-over.c2922213568257db8728.wav",
+    "static/media/blue.wav": "/static/media/blue.579c4de775587cec064a.wav",
+    "index.html": "/index.html",
+    "main.8d86fef1.css.map": "/static/css/main.8d86fef1.css.map",
+    "main.3c7725c9.js.map": "/static/js/main.3c7725c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d86fef1.css",
+    "static/js/main.3c7725c9.js"
+  ]
+}
